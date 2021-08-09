@@ -1,0 +1,7 @@
+home dimensions:
+header: 1366 X 97
+main: 1366 X 5316
+footer:1366 X 193
+
+header top: 1366 X 60
+header bottom : 1366 X 39
